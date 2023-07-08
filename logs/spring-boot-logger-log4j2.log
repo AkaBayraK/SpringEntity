@@ -1,0 +1,15 @@
+2023-07-08 19:42:47,650 INFO o.s.b.StartupInfoLogger [main] Starting SpringEntityApplication using Java 18.0.2.1 with PID 33445 (/Users/abdulkadiraltunbayrak/Desktop/workspace/SpringEntity/target/classes started by abdulkadiraltunbayrak in /Users/abdulkadiraltunbayrak/Desktop/workspace/SpringEntity)
+2023-07-08 19:42:47,656 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-07-08 19:42:48,507 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 9090 (http)
+2023-07-08 19:42:48,516 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9090"]
+2023-07-08 19:42:48,518 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2023-07-08 19:42:48,519 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-08 19:42:48,599 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-07-08 19:42:48,600 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 897 ms
+2023-07-08 19:42:48,780 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter [main] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-07-08 19:42:48,848 DEBUG o.s.w.s.h.AbstractHandlerMethodMapping [main] 4 mappings in 'requestMappingHandlerMapping'
+2023-07-08 19:42:48,863 DEBUG o.s.w.s.h.SimpleUrlHandlerMapping [main] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-07-08 19:42:48,870 DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [main] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-07-08 19:42:48,922 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-9090"]
+2023-07-08 19:42:48,950 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 9090 (http) with context path ''
+2023-07-08 19:42:48,960 INFO o.s.b.StartupInfoLogger [main] Started SpringEntityApplication in 1.664 seconds (process running for 2.789)

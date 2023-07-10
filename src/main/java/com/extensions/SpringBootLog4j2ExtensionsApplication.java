@@ -6,8 +6,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.PropertySource;
 
-@SpringBootApplication
-@PropertySource("classpath:application-log4j2-extensions.properties")
+//@SpringBootApplication
+//@PropertySource("classpath:application-log4j2-extensions.properties")
 public class SpringBootLog4j2ExtensionsApplication {
 
     private static final Logger logger = LogManager.getLogger(SpringBootLog4j2ExtensionsApplication.class);

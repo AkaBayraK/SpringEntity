@@ -8,8 +8,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-@RestController
-@SpringBootApplication
+//@RestController
+///@SpringBootApplication
 //@ActiveProfiles("log-group")
 public class LogGroupApplication {
 
